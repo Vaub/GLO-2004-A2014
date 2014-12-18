@@ -24,7 +24,7 @@ public class ParametresSchema extends BoiteAOutils implements ActionListener
         panel = new SchemaPanel(app.controleur.getSchema(), _app);
         this.setContenu(panel);
 
-        this.setMinimumSize(new Dimension(350, this.getMinimumSize().height));
+        this.setMinimumSize(new Dimension(350, 150));
         this.setPreferredSize(this.getMinimumSize());
     }
     
