@@ -13,6 +13,6 @@ L'interface graphique utilise Java Swing.
 
 #Auteurs
 * Vincent Aubé
-* Isabelle Chumm-Chin
+* Isabelle Chum-Chinn
 * Magalie Caouette
 * Olivier Pelletier
